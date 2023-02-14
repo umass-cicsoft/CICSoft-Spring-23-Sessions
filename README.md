@@ -1,2 +1,5 @@
-# CICSoft-Spring-23-Sessions
-Repository containing slides and resources from CICSoft Weekly Sessions for Spring 2023
+# CICSoft-Spring-23-Sessions #
+
+All content about the CICSoft Weekly Sessions will be available in this repository.
+
+Feel free to clone it and try out all the activites!
